@@ -1,12 +1,13 @@
 
 <!-- <h3 align="center" > ▂ ▃▄▅▆▇█▓▒░ 𝐌𝐨𝐝𝐨 𝐂𝐫𝐞𝐚𝐭𝐢𝐯𝐨 ░▒▓█▇▆▅▄▃ ▂</h3> -->
  <!--   [![Herman-para-que-la-copia-xd.gif](https://i.postimg.cc/pTqbVLSR/Herman-para-que-la-copia-xd.gif)](https://postimg.cc/fttgBDZr) -->
+ <!-- [![Fantasma-2-1.jpg](https://i.postimg.cc/bvQ0XGBV/Fantasma-2-1.jpg)](https://postimg.cc/f3RSmbZY) -->
 
 <h3 align="center" >░░░░░░░░░░░░░░░░░░░░░░░░░░ 𝐌𝐨𝐝𝐨 𝐂𝐫𝐞𝐚𝐭𝐢𝐯𝐨 ░░░░░░░░░░░░░░░░░░░░░░░░░░</h3>
 
 
- <a href="https://instagram.com/cristiano" target="blank"> <img align="center" src="https://i.postimg.cc/pTqbVLSR/Herman-para-que-la-copia-xd.gif)](https://postimg.cc/fttgBDZr"  height="370" width="370" /></a>  
-</p>
+ <img align="center" src="https://i.postimg.cc/pTqbVLSR/Herman-para-que-la-copia-xd.gif"  height="370" width="370" /></a>   Se esta 
+  
 
 
  <h3 align="right">¡Sᵢᵤᵤᵤ!</h3>
