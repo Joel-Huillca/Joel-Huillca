@@ -2,6 +2,8 @@
 <!-- ( comentarios _-_ )  -->
 
 > JH - Mago  
+<p align="center"><img src="_-_/EABMODEC ++.png"></p>
+
 <h3 align="center" >~ 𝐌𝐎𝐃𝐎 𝐂𝐑𝐄𝐀𝐓𝐈𝐕𝐎 ~</h3>
 
 <p align="center"><img src="https://i.postimg.cc/pTqbVLSR/Herman-para-que-la-copia-xd.gif"></p>              
