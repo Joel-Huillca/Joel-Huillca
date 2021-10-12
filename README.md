@@ -2,7 +2,7 @@
 <!-- ( comentarios _-_ )  -->
 
 > JH - Mago  
-<p align="center"><img src="_-_/EABMODEC ++.png"></p>
+<p align="center"><img src="_-_/EABMODEC +.png"></p>
 
 <h3 align="center" >~ 𝐌𝐎𝐃𝐎 𝐂𝐑𝐄𝐀𝐓𝐈𝐕𝐎 ~</h3>
 
