@@ -18,7 +18,7 @@
 ### Hi there 👋
  ![visitors](https://page-views.glitch.me/badge?page_id=Joel-Huillca)
  
- I am a software developer and a lover of technology
+ Lover of technology
 
 ## GitHub Profile Trophy
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Joel-Huillca&theme=darkhub&margin-w=45)
