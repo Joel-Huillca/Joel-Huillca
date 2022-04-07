@@ -23,7 +23,7 @@
 ## GitHub Stats
 | Most Used Languages | GitHub Stats |
 | ------------------- | ------------ |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Huillca&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=f0f6fc&layout=compact) | ![Stats](https://github-readme-stats.vercel.app/api/?username=Joel-Huillca_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=f0f6fc&hide=issue) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Huillca&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=f0f6fc&layout=compact) | ![Stats](https://github-readme-stats.vercel.app/api/?username=Joel-Huillca&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=f0f6fc&hide=issue) |
 
 
 
@@ -44,4 +44,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
