@@ -13,9 +13,9 @@
 
 
 
-<br/> </p> <br> <br> <!-- ( Salto de Linea )  --> <br> 
+<br/> </p> <br> <!-- ( Salto de Linea )  --> <br> 
 
-### Hi there 👋
+<!-- ### Hi there 👋 -->
  ![visitors](https://page-views.glitch.me/badge?page_id=Joel-Huillca)
  
  Lover of technology
