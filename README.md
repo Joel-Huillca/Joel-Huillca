@@ -28,11 +28,12 @@
 | ------------------- | ------------ |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Huillca&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=f0f6fc&layout=compact) | ![Stats](https://github-readme-stats.vercel.app/api/?username=Joel-Huillca&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=f0f6fc&hide=issue) |
 
-<br> <br> 
-<h2>  </h2>
-<h4> Tinkercad:  </h4>
- https://www.tinkercad.com/dashboard?type=circuits&collection=designs 
-<h2>  </h2>
+
+
+<br> <br>
+<h4 align="center" >  Ｔｉｎｋｅｒｃａｄ </h4> <h2>  
+<h4 align="center" >  https://www.tinkercad.com/dashboard?type=circuits&collection=designs  </h4>
+<h2> 
 
 <!-- //Por ordenar _-_
 **Birdnation/Birdnation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
